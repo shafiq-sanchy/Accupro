@@ -11,7 +11,7 @@ html { padding:0; margin:0;}
 .block_header {margin:0 auto; padding:0; width:960px;}
 
 /*logo*/
-.logo { float:inline; padding:0 auto; margin:0 auto; width:100%;}
+.logo { padding:0 auto; margin:0 auto; width:100%;}
 
 /* search */
 .search { padding:0; margin:10px 5px 0 0; float:right;}

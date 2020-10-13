@@ -8,7 +8,7 @@ html { padding:0; margin:0;}
 
 /********** header **********/
 .header { }
-.block_header {margin:0 auto; padding:0; width:960px;}
+.block_header {margin:0 auto; padding:0; width:100%;}
 
 /*logo*/
 .logo { padding:0 auto; margin:0 auto; width:100%;}
